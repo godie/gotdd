@@ -10,7 +10,7 @@
 3. ~~Integers - Further Explore function declaration syntax and learn new ways to improve the documentation of your code.~~
 4. ~~Iteration - Learn about `for` and benchmarking.~~
 5. ~~Arrays and slices - Learn about arrays, slices, `len`, varargs, `range` and test coverage~~
-6. Structs, methods & interfaces](structs-methods-and-interfaces.md) - Learn about `struct`, methods, `interface` and table driven tests.
+6. ~~Structs, methods & interfaces](structs-methods-and-interfaces.md) - Learn about `struct`, methods, `interface` and table driven tests.~~
 7. Pointers & errors - Learn about pointers and errors.
 8. Maps - Learn about storing values in the map data structure.
 9. Dependency Injection - Learn about dependency injection, how it relates to using interfaces and a primer on io.
